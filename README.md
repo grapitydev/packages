@@ -1,8 +1,8 @@
 # grapity packages
 
-Static package repository hosting for the [grapity](https://github.com/grapitydev/grapity) CLI: apt (Debian/Ubuntu), dnf (Fedora/RHEL), and pacman (Arch) repositories, served via GitHub Pages.
+Static package repository hosting for the [grapity](https://github.com/grapitydev/grapity) CLI: apt (Debian/Ubuntu), dnf (Fedora/RHEL), and pacman (Arch) repositories, served at [packages.grapity.dev](https://packages.grapity.dev) via GitHub Pages.
 
-The published site lives on the `gh-pages` branch and is rebuilt from scratch on every release by the `packages` job in `.github/workflows/binaries.yml` of the grapity repo. Only the latest release is kept.
+The published site lives on the `gh-pages` branch and is rebuilt from scratch on every release by the `packages` job in `.github/workflows/binaries.yml` of the grapity repo. Only the latest release is kept. The custom domain is preserved across publishes by a `CNAME` file written on every deploy; the legacy `grapitydev.github.io/packages` URLs redirect here.
 
 ## Signing
 
