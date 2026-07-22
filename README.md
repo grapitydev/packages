@@ -15,6 +15,14 @@ Fingerprint: 40D5 A375 F72A 82BD 6F2A A664 5BC0 2278 C130 6FA1
 
 ## Install
 
+### Quick install (macOS + Linux)
+
+```sh
+curl -fsSL https://packages.grapity.dev/install.sh | sh
+```
+
+The installer auto-detects Homebrew, apt, dnf or pacman and installs through it (checksum-verified binary fallback otherwise). It is published from `scripts/install.sh` in the grapity repo on every release. Windows: use npm (`npm install -g @grapity/grapity`) or run the script inside WSL.
+
 ### apt (Debian/Ubuntu)
 
 ```sh
