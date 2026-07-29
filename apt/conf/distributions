@@ -1,0 +1,7 @@
+Origin: Grapity
+Label: grapity
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: grapity CLI apt repository
+SignWith: 5BC02278C1306FA1

@@ -1,0 +1,5 @@
+Component: main
+Origin: Grapity
+Label: grapity
+Architecture: amd64
+Description: grapity CLI apt repository

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Grapity
+Label: grapity
+Codename: stable
+Date: Wed, 29 Jul 2026 18:43:47 UTC
+Architectures: amd64 arm64
+Components: main
+Description: grapity CLI apt repository
+MD5Sum:
+ 3fad1e69382cc4abb978f83bcf485e19 506 main/binary-amd64/Packages
+ 0a22178e4f145987c62a2f5dc858a90e 379 main/binary-amd64/Packages.gz
+ 1f984b97511de7392cd39e6fa0e65cc0 107 main/binary-amd64/Release
+ ed83d0f2b92d8fd2fe4816be3e7084a5 506 main/binary-arm64/Packages
+ 784df0a156426b6a90c41f7bdb595f88 378 main/binary-arm64/Packages.gz
+ cfc5937981f3b4b4fbde016ecb75825f 107 main/binary-arm64/Release
+SHA1:
+ 156436301039487fb4bca8181aedc88206a7858b 506 main/binary-amd64/Packages
+ 19cbe574e54aae6a26f7bc8265bec2291cf5e3df 379 main/binary-amd64/Packages.gz
+ a54123c8895bf744eb3d0ae3bcdbd267e0d2f933 107 main/binary-amd64/Release
+ 20f18768e063a412153f8e9dede6438cd62e2005 506 main/binary-arm64/Packages
+ 9f400ea80d6a281bb7965b01fd26ef10e0c4e66c 378 main/binary-arm64/Packages.gz
+ 806ea6262545f4e29871fa50c9d6c7fc08843527 107 main/binary-arm64/Release
+SHA256:
+ f066ac97cd9aa555a11d202c9c8a2a19249aba4f82c68497c9ad5de674e0125f 506 main/binary-amd64/Packages
+ 6ede50553f1cf97dbb6d3d610cb953253492c4c21b5bf7076e92448b5bcd80fa 379 main/binary-amd64/Packages.gz
+ e0bf283614ef27a834599ff2b473190ac82a713b3c074b936e0d24218228ca83 107 main/binary-amd64/Release
+ f0db481f8122b4e4adf786ef45e3e4ae1a7456c103b163ad66fa6a588e8e7a44 506 main/binary-arm64/Packages
+ 470617928b5212509bf7f9fa6f60814db4fab05abdf9b4945a03aa3ea852db51 378 main/binary-arm64/Packages.gz
+ dddda08e1334fa02eb9beeccd4dc830f0cdac5db1a455dc6772d3a22c894c5d5 107 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEn0gH13pXR4qk3OlWsz0J9BIAkuAFAmpqSeMACgkQsz0J9BIA
+kuBJ3w//Q2vWJRDyu/fMAuqzUE9c1YC2AzpF3FYno9Y74zCLtIO3ASXhzFoQ4FUD
+Lweuhpn3d8M4GSFQaijAFZ7p8lUAx0uiaICsWeRtsZ0HFGcK+cHqg5hZwIYjSZHO
+UvTVw6lJXCY2GKFBiqjpEjV5sQ1soQ9XRiCWbzsfWCu3mwERTSMmQfsuj9UBlR5+
+mHKM5gMFvXyGbQar8pRSk57iYspjiFUWXvv/VC25I6T1z4+abcWBSMFoLN5JbSw1
+2pRigM++WP2OqNO/Z3yMmjwUew2YeKruMnuovwlNnEmNh77R4ERFjLYci3KU/soN
+3+CtdgAp+6+gf2MirVc+suKA5EInigdnjkc7oVuZm+b37hMQYP7aMF9nndYf2JIf
+muGemP8F5ATcejU+Ir0jFOPNtvqRduBwjRf+ObiAONi+2tCNPjGZpp0yS9xGL5th
+HHYZvqotC+B2irVNN5jZTtCSD4934esufpN2/5HeAgnTYb3OwChiwg2PxVZ7qJHb
+cLSN6tLhBPxX72C4Gmdjvt8uyXsEqTFIMOSftIOVcvyU1kSuwQ7ZN+VnDFedkhBa
+CvaUPuiJkgCTdF+A1Y7zYK5NHYGGPTxA455cB6snwh5Twcme/ML8TMEqeCWMSrGr
+lWDPKTukESYBJ/xaTu4rGZYPM0jLKeDc7bhYXsww4A8BUGnMF/s=
+=187A
+-----END PGP SIGNATURE-----

@@ -1,0 +1,15 @@
+Package: grapity
+Version: 0.16.0
+Architecture: arm64
+Maintainer: Grapity Releases <contact@grapity.dev>
+Installed-Size: 93738
+Homepage: https://grapity.dev
+Priority: optional
+Section: utils
+Filename: pool/main/g/grapity/grapity_0.16.0_arm64.deb
+Size: 37754834
+SHA256: d8251a103b2f1dd1ecd1f15283aedd16e1e62e16b5ed1f5ef5ed65790975e3e4
+SHA1: c6d501a5350ef6886433b3f3421566ddf93b7284
+MD5sum: 117af67bf25ba62856906100661c08a0
+Description: Open-source API governance. Ship APIs that won't break your consumers.
+

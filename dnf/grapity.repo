@@ -1,0 +1,6 @@
+[grapity]
+name=grapity
+baseurl=https://packages.grapity.dev/dnf/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://packages.grapity.dev/gpg.key
